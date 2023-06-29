@@ -1,0 +1,52 @@
+[
+    {
+        "device": "device1",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:55:22.454721"
+    },
+    {
+        "device": "device2",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:55:24.458089"
+    },
+    {
+        "device": "device3",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:55:26.461674"
+    },
+    {
+        "device": "device4",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:55:28.469597"
+    },
+    {
+        "device": "device5",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:55:30.480632"
+    },
+    {
+        "device": "device6",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:55:32.486760"
+    },
+    {
+        "device": "device7",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:55:34.492271"
+    },
+    {
+        "device": "device8",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:55:36.501877"
+    },
+    {
+        "device": "device9",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:55:38.506232"
+    },
+    {
+        "device": "device10",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:55:40.518872"
+    }
+]

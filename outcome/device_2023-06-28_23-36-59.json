@@ -1,0 +1,502 @@
+[
+    {
+        "device": "device1",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:36:59.443112"
+    },
+    {
+        "device": "device2",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:37:01.446084"
+    },
+    {
+        "device": "device3",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:37:03.450886"
+    },
+    {
+        "device": "device4",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:37:05.460116"
+    },
+    {
+        "device": "device5",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:37:07.470690"
+    },
+    {
+        "device": "device6",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:37:09.483375"
+    },
+    {
+        "device": "device7",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:37:11.495271"
+    },
+    {
+        "device": "device8",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:37:13.495415"
+    },
+    {
+        "device": "device9",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:37:15.504182"
+    },
+    {
+        "device": "device10",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:37:17.507090"
+    },
+    {
+        "device": "device11",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:37:19.511511"
+    },
+    {
+        "device": "device12",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:37:21.513279"
+    },
+    {
+        "device": "device13",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:37:23.515023"
+    },
+    {
+        "device": "device14",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:37:25.524061"
+    },
+    {
+        "device": "device15",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:37:27.536546"
+    },
+    {
+        "device": "device16",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:37:29.547050"
+    },
+    {
+        "device": "device17",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:37:31.554014"
+    },
+    {
+        "device": "device18",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:37:33.562472"
+    },
+    {
+        "device": "device19",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:37:35.577138"
+    },
+    {
+        "device": "device20",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:37:37.588984"
+    },
+    {
+        "device": "device21",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:37:39.597815"
+    },
+    {
+        "device": "device22",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:37:41.606575"
+    },
+    {
+        "device": "device23",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:37:43.608545"
+    },
+    {
+        "device": "device24",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:37:45.619564"
+    },
+    {
+        "device": "device25",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:37:47.620175"
+    },
+    {
+        "device": "device26",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:37:49.634551"
+    },
+    {
+        "device": "device27",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:37:51.645358"
+    },
+    {
+        "device": "device28",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:37:53.655063"
+    },
+    {
+        "device": "device29",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:37:55.656169"
+    },
+    {
+        "device": "device30",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:37:57.659842"
+    },
+    {
+        "device": "device31",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:37:59.660784"
+    },
+    {
+        "device": "device32",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:38:01.662022"
+    },
+    {
+        "device": "device33",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:38:03.662383"
+    },
+    {
+        "device": "device34",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:38:05.669402"
+    },
+    {
+        "device": "device35",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:38:07.671933"
+    },
+    {
+        "device": "device36",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:38:09.672162"
+    },
+    {
+        "device": "device37",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:38:11.684061"
+    },
+    {
+        "device": "device38",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:38:13.689022"
+    },
+    {
+        "device": "device39",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:38:15.690416"
+    },
+    {
+        "device": "device40",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:38:17.694719"
+    },
+    {
+        "device": "device41",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:38:19.701955"
+    },
+    {
+        "device": "device42",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:38:21.706995"
+    },
+    {
+        "device": "device43",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:38:23.717151"
+    },
+    {
+        "device": "device44",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:38:25.730175"
+    },
+    {
+        "device": "device45",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:38:27.738506"
+    },
+    {
+        "device": "device46",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:38:29.748374"
+    },
+    {
+        "device": "device47",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:38:31.761522"
+    },
+    {
+        "device": "device48",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:38:33.767868"
+    },
+    {
+        "device": "device49",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:38:35.774007"
+    },
+    {
+        "device": "device50",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:38:37.777140"
+    },
+    {
+        "device": "device51",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:38:39.786094"
+    },
+    {
+        "device": "device52",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:38:41.796712"
+    },
+    {
+        "device": "device53",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:38:43.807005"
+    },
+    {
+        "device": "device54",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:38:45.811189"
+    },
+    {
+        "device": "device55",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:38:47.825841"
+    },
+    {
+        "device": "device56",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:38:49.838249"
+    },
+    {
+        "device": "device57",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:38:51.845016"
+    },
+    {
+        "device": "device58",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:38:53.849419"
+    },
+    {
+        "device": "device59",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:38:55.852654"
+    },
+    {
+        "device": "device60",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:38:57.858936"
+    },
+    {
+        "device": "device61",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:38:59.863737"
+    },
+    {
+        "device": "device62",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:39:01.871981"
+    },
+    {
+        "device": "device63",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:39:03.883855"
+    },
+    {
+        "device": "device64",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:39:05.889117"
+    },
+    {
+        "device": "device65",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:39:07.893508"
+    },
+    {
+        "device": "device66",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:39:09.901489"
+    },
+    {
+        "device": "device67",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:39:11.908024"
+    },
+    {
+        "device": "device68",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:39:13.916158"
+    },
+    {
+        "device": "device69",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:39:15.925395"
+    },
+    {
+        "device": "device70",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:39:17.939890"
+    },
+    {
+        "device": "device71",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:39:19.943882"
+    },
+    {
+        "device": "device72",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:39:21.951024"
+    },
+    {
+        "device": "device73",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:39:23.952485"
+    },
+    {
+        "device": "device74",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:39:25.953004"
+    },
+    {
+        "device": "device75",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:39:27.958134"
+    },
+    {
+        "device": "device76",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:39:29.970159"
+    },
+    {
+        "device": "device77",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:39:31.973021"
+    },
+    {
+        "device": "device78",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:39:33.980726"
+    },
+    {
+        "device": "device79",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:39:35.986185"
+    },
+    {
+        "device": "device80",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:39:37.991162"
+    },
+    {
+        "device": "device81",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:39:40.004016"
+    },
+    {
+        "device": "device82",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:39:42.014057"
+    },
+    {
+        "device": "device83",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:39:44.019358"
+    },
+    {
+        "device": "device84",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:39:46.025670"
+    },
+    {
+        "device": "device85",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:39:48.032591"
+    },
+    {
+        "device": "device86",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:39:50.038906"
+    },
+    {
+        "device": "device87",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:39:52.039835"
+    },
+    {
+        "device": "device88",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:39:54.042645"
+    },
+    {
+        "device": "device89",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:39:56.049457"
+    },
+    {
+        "device": "device90",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:39:58.064270"
+    },
+    {
+        "device": "device91",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:40:00.074319"
+    },
+    {
+        "device": "device92",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:40:02.076395"
+    },
+    {
+        "device": "device93",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:40:04.082514"
+    },
+    {
+        "device": "device94",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:40:06.090739"
+    },
+    {
+        "device": "device95",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:40:08.094843"
+    },
+    {
+        "device": "device96",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:40:10.101068"
+    },
+    {
+        "device": "device97",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:40:12.113688"
+    },
+    {
+        "device": "device98",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:40:14.125192"
+    },
+    {
+        "device": "device99",
+        "status": "Error",
+        "timestamp": "2023-06-28 23:40:16.138379"
+    },
+    {
+        "device": "device100",
+        "status": "OK",
+        "timestamp": "2023-06-28 23:40:18.142251"
+    }
+]
